@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU3_LosMaliantes.  Curso: 2020/21 
-Updated: 17/3/2021
+Updated: 18/3/2021
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -27,27 +27,54 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Nuestra aplicación seleccionada ha sido **‘Airbnb’**. Tras investigar múltiples aplicaciones y páginas web que ofrecen oportunidades de ocio a sus usuarios (respetando las medidas pertinentes por la situación epidemiológica actual), hemos considerado que Airbnb es una candidata perfecta por su completitud y diseño. 
+>>>
+>>> Esta página, además de ofrecernos distintas experiencias en el lugar y la fecha que nosotros escojamos, nos ofrece posibilidades de encontrar alojamiento (muy económico) en el lugar que deseemos, pudiendo así poder hacer ocio en lugares que no hayamos llegado a conocer y además poder residir en ese lugar varios días (para combinar varias experiencias en un periodo corto de tiempo).
+>>>
+>>> Sin embargo, esta página tiene distintos competidores (Trivago, Booking y TripAdvisor, entre otros) que ofrecen servicios parecidos a nuestra aplicación. 
+>>>
+>>> Respecto a **Trivago**, esta aplicación sirve como una comparadora de precios entre distintas páginas y aplicaciones (incluido los sitios webs de las propias experiencias), para ayudarnos a encontrar la que se ajuste más a nuestro presupuesto permitido.
+>>> **Booking** es una aplicación que nos permite buscar y reservar experiencias y alojamientos en el lugar y fecha indicados.
+>>>
+>>> **TripAdvisor**, al igual que Booking, nos permite buscar y reservar alojamientos en el lugar al que deseamos ir.
+>>>
+>>> Por tanto, hemos realizado un análisis competitivo entre nuestra aplicación y las competidoras que hemos seleccionado. A continuación, adjuntamos el resultado:
+>>>
+>>> ![Competitive-Analysis](img/Competitive-Analysis.png)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> ![Manolo-Martinez](img/Manolo-Martinez.png)
+>>>
+>>> En primer lugar, nos ha parecido interesante proponer a una persona con pocas habilidades con la tecnología, que no se fía mucho de realizar reservas por Internet, y que es una persona sencilla que quiere disfrutar de algunas experiencias nuevas junto a su familia.
+>>>
+>>> Así, podremos ver si la aplicación es intuitiva y de fácil uso para personas inexpertas.
+>>>
+>>> ![Soraya-Garcia](img/Soraya-Garcia.png)
+>>>
+>>> Para la segunda persona, hemos decidido crear a Soraya, una mujer joven y soltera que se maneja bien con las nuevas tecnologías y las redes sociales, para comprobar si nuestra aplicación cumple las expectativas de una persona que, aún teniendo soltura buscando experiencias en Internet, sigue eligiendo Airbnb.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> ![Manolo-Martinez-Journey](img/Manolo-Martinez-Journey.png)
+>>>
+>>> Para Manolo Martinez (quien intentaba buscar como hacer su viaje mediante publicidad convencional), descubrir Airbnb le ayudó para poder realizar la reserva de su experiencia junto a su familia. Sin embargo, desconfía de Internet y de las nuevas tecnologías, afectando a su proceso.
+>>>
+>>> ![Soraya-Garcia-Journey](img/Soraya-Garcia-Journey.png)
+>>>
+>>> Para Soraya Garcia, las tecnologías no le han supuesto mucho problema. Aunque su jefe no le dió los días que deseaba para vivir su experiencia, había encontrado su “viaje perfecto”. Sin embargo, debido a la situación epidemiológica actual, no pudo completar su reserva y decidió, con descontento, recurrir a otro destino más adecuado.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>  > SE deben incluir claramente los siguientes elementos
->>>  >
->>>  > - Enlace al documento:  (sube a github el xls/pdf) 
->>>  - Valoración final (numérica): 
->>>  - Comentario sobre la valoración:  (60-120 caracteres)
+>>>  
+>>>
+>>>  - Enlace al documento:  https://github.com/Lisenk20/DIU21/blob/master/P1/Usability-review-DIU3-LosMaliantes.pdf
+>>>
+>>>  - Valoración final (numérica): 86 - Good
+>>>  - Comentario sobre la valoración:  En general, la aplicación de Airbnb es capaz de ofrecer una buena experiencia de usuario, destacando su página principal con una interfaz muy clara e intuitiva. En cuanto a los aspectos negativos, encontramos una escasa ayuda en línea así como pocas instrucciones de uso de la plataforma, aunque no tenemos fallos graves en cuanto a la usabilidad.
 
 
 ## Paso 2. UX Design  
