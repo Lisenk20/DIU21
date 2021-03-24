@@ -2,14 +2,16 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU3_LosMaliantes.  Curso: 2020/21 
-Updated: 18/3/2021
+Updated: 24/3/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> El Bastón de Granada.
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> App para moviles destinada a su uso para conocer y disfrutar de las distintas rutas de senderismo que ofrece la ciudad de Granada y sus alrededores. Con ella,
+>>> podremos trazar rutas, rastrear y analizar los senderos que hemos recorrido y dejar reviews y diversas ubicaciones para compartir con amigos y otros usuarios
+>>> de la aplicación.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
