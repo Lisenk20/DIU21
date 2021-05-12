@@ -169,13 +169,13 @@ Miembros
 >>>
 >>> - Sobre nosotros:
 >>>
->>>   ![about us](img/about us.png)
+>>>   ![about us](img/about-us.png)
 >>>
 >>> 
 >>>
 >>> - Contáctanos:
 >>>
->>>   ![contact us](img/contact us.png)
+>>>   ![contact us](img/contact-us.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
