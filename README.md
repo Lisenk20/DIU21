@@ -133,49 +133,49 @@ Miembros
 
 >>> - Página principal: 
 >>>
->>>   ![inicio](img/Bocetos Lo-Fi/inicio.png)
+>>>   ![inicio](img/inicio.png)
 >>>
 >>> 
 >>>
 >>> - Rutas:
 >>>
->>>   ![rutas](img/Bocetos Lo-Fi/rutas.png)
+>>>   ![rutas](img/rutas.png)
 >>>
 >>> 
 >>>
 >>> - Ruta:
 >>>
->>>   ![ruta](img/Bocetos Lo-Fi/ruta.png)
+>>>   ![ruta](img/ruta.png)
 >>>
 >>> 
 >>>
 >>> - Grupos: 
 >>>
->>>   ![grupos](img/Bocetos Lo-Fi/grupos.png)
+>>>   ![grupos](img/grupos.png)
 >>>
 >>> 
 >>>
 >>> - Chat: 
 >>>
->>>   ![chat](img/Bocetos Lo-Fi/chat.png)
+>>>   ![chat](img/chat.png)
 >>>
 >>> 
 >>>
 >>> - Perfil: 
 >>>
->>>   ![perfil](img/Bocetos Lo-Fi/perfil.png)
+>>>   ![perfil](img/perfil.png)
 >>>
 >>> 
 >>>
 >>> - Sobre nosotros:
 >>>
->>>   ![about us](img/Bocetos Lo-Fi/about us.png)
+>>>   ![about us](img/about us.png)
 >>>
 >>> 
 >>>
 >>> - Contáctanos:
 >>>
->>>   ![contact us](img/Bocetos Lo-Fi/contact us.png)
+>>>   ![contact us](img/contact us.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
