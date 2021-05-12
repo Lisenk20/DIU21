@@ -14,7 +14,7 @@ Descripción:
 
 Logotipo: 
 
-![Logotipo-El-Baston-de-Granada](img/Logotipo-El-Baston-de-Granada.png)
+<img src="img/Logotipo-El-Baston-de-Granada.png" alt="Logotipo-El-Baston-de-Granada" style="zoom: 50%;" />
 
 Miembros
  * :bust_in_silhouette:   Alejandro Cuenca Zurita     :octocat:     
@@ -42,18 +42,18 @@ Miembros
 >>>
 >>> Por tanto, hemos realizado un análisis competitivo entre nuestra aplicación y las competidoras que hemos seleccionado. A continuación, adjuntamos el resultado:
 >>>
->>> ![Competitive-Analysis](img/Competitive-Analysis.png)
+>>> <img src="img/Competitive-Analysis.png" alt="Competitive-Analysis" style="zoom: 33%;" />
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> ![Manolo-Martinez](img/Manolo-Martinez.png)
+>>> <img src="img/Manolo-Martinez.png" alt="Manolo-Martinez" style="zoom: 67%;" />
 >>>
 >>> En primer lugar, nos ha parecido interesante proponer a una persona con pocas habilidades con la tecnología, que no se fía mucho de realizar reservas por Internet, y que es una persona sencilla que quiere disfrutar de algunas experiencias nuevas junto a su familia.
 >>>
 >>> Así, podremos ver si la aplicación es intuitiva y de fácil uso para personas inexpertas.
 >>>
->>> ![Soraya-Garcia](img/Soraya-Garcia.png)
+>>> <img src="img/Soraya-Garcia.png" alt="Soraya-Garcia" style="zoom: 67%;" />
 >>>
 >>> Para la segunda persona, hemos decidido crear a Soraya, una mujer joven y soltera que se maneja bien con las nuevas tecnologías y las redes sociales, para comprobar si nuestra aplicación cumple las expectativas de una persona que, aún teniendo soltura buscando experiencias en Internet, sigue eligiendo Airbnb.
 
@@ -61,11 +61,11 @@ Miembros
 ----
 
 
->>> ![Manolo-Martinez-Journey](img/Manolo-Martinez-Journey.png)
+>>> <img src="img/Manolo-Martinez-Journey.png" alt="Manolo-Martinez-Journey" style="zoom: 67%;" />
 >>>
 >>> Para Manolo Martinez (quien intentaba buscar como hacer su viaje mediante publicidad convencional), descubrir Airbnb le ayudó para poder realizar la reserva de su experiencia junto a su familia. Sin embargo, desconfía de Internet y de las nuevas tecnologías, afectando a su proceso.
 >>>
->>> ![Soraya-Garcia-Journey](img/Soraya-Garcia-Journey.png)
+>>> <img src="img/Soraya-Garcia-Journey.png" alt="Soraya-Garcia-Journey" style="zoom: 67%;" />
 >>>
 >>> Para Soraya Garcia, las tecnologías no le han supuesto mucho problema. Aunque su jefe no le dió los días que deseaba para vivir su experiencia, había encontrado su “viaje perfecto”. Sin embargo, debido a la situación epidemiológica actual, no pudo completar su reserva y decidió, con descontento, recurrir a otro destino más adecuado.
 
@@ -86,7 +86,7 @@ Miembros
 ----
 
 
->>> ![Malla-Receptora-de-Información](img/Malla-Receptora-de-Información.png)
+>>> <img src="img/Malla-Receptora-de-Información.png" alt="Malla-Receptora-de-Información" style="zoom:67%;" />
 
 
 >>> La malla receptora de información nos ayuda a agrupar nuestras ideas, viendo los pros y los contras de las mismas, para poder conseguir que nuestro proyecto tenga una evolución clara y planeada. Para ello, nos preguntamos los puntos interesantes y las criticas constructivas que pueden surgir de nuestra idea inicial, además de conseguir preguntas y nuevas ideas de otros usuarios que nos ayudarán a plantearnos nuevas opciones para el proyecto.
@@ -95,12 +95,12 @@ Miembros
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> ![Lean-Canvas-El-Bastón-de-Granada](img/Lean-Canvas-El-Bastón-de-Granada.png)En este punto, estudiamos las necesidades y acciones de nuestros usuarios, además de los objetivos y las métricas que debemos seguir como organización para concienciarnos de que el proyecto funciona como esperamos y que lleve una evolución consigo. Además, es muy importante tener en cuenta el proposito de El Bastón de Granada, siendo estos los pilares que conseguirán que el proyecto se mantenga. 
+>>> <img src="img/Lean-Canvas-El-Bastón-de-Granada.png" alt="Lean-Canvas-El-Bastón-de-Granada" style="zoom:67%;" />En este punto, estudiamos las necesidades y acciones de nuestros usuarios, además de los objetivos y las métricas que debemos seguir como organización para concienciarnos de que el proyecto funciona como esperamos y que lleve una evolución consigo. Además, es muy importante tener en cuenta el proposito de El Bastón de Granada, siendo estos los pilares que conseguirán que el proyecto se mantenga. 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> ![Task-Flow-Bastón-de-Granada](img/Task-Flow-Bastón-de-Granada.png)
+>>> <img src="img/Task-Flow-Bastón-de-Granada.png" alt="Task-Flow-Bastón-de-Granada" style="zoom:67%;" />
 >>>
 >>> Para identificar las tareas (y la relevancia para los usuarios), hemos decidido realizar un
 >>> Task Flow. Con él, somos capaces de observar el camino que toma un usuario para
@@ -113,7 +113,7 @@ Miembros
 
 >>> A continuación proponemos la organización lógica de nuestra aplicación mediante un site map, con el que podremos identificar las diferentes páginas que componen a nuestro proyecto.
 >>>
->>> ![SiteMap-Bastón-de-Granada](img/SiteMap-Bastón-de-Granada.png)
+>>> <img src="img/SiteMap-Bastón-de-Granada.png" alt="SiteMap-Bastón-de-Granada" style="zoom: 33%;" />
 >>>
 >>> |     Label      |                          Scope note                          |
 >>> | :------------: | :----------------------------------------------------------: |
@@ -133,49 +133,49 @@ Miembros
 
 >>> - Página principal: 
 >>>
->>>   ![inicio](img/inicio.png)
+>>>   <img src="img/inicio.png" alt="inicio" style="zoom: 67%;" />
 >>>
 >>> 
 >>>
 >>> - Rutas:
 >>>
->>>   ![rutas](img/rutas.png)
+>>>   <img src="img/rutas.png" alt="rutas" style="zoom:67%;" />
 >>>
 >>> 
 >>>
 >>> - Ruta:
 >>>
->>>   ![ruta](img/ruta.png)
+>>>   <img src="img/ruta.png" alt="ruta" style="zoom:67%;" />
 >>>
 >>> 
 >>>
 >>> - Grupos: 
 >>>
->>>   ![grupos](img/grupos.png)
+>>>   <img src="img/grupos.png" alt="grupos" style="zoom:67%;" />
 >>>
 >>> 
 >>>
 >>> - Chat: 
 >>>
->>>   ![chat](img/chat.png)
+>>>   <img src="img/chat.png" alt="chat" style="zoom:67%;" />
 >>>
 >>> 
 >>>
 >>> - Perfil: 
 >>>
->>>   ![perfil](img/perfil.png)
+>>>   <img src="img/perfil.png" alt="perfil" style="zoom:67%;" />
 >>>
 >>> 
 >>>
 >>> - Sobre nosotros:
 >>>
->>>   ![about us](img/about-us.png)
+>>>   <img src="img/about-us.png" alt="about us" style="zoom:67%;" />
 >>>
 >>> 
 >>>
 >>> - Contáctanos:
 >>>
->>>   ![contact us](img/contact-us.png)
+>>>   <img src="img/contact-us.png" alt="contact us" style="zoom:67%;" />
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
