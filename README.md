@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU3_LosMaliantes.  Curso: 2020/21 
-Updated: 24/3/2021
+Updated: 12/5/2021
 
 Proyecto: 
 >>> El Bastón de Granada.
@@ -10,11 +10,11 @@ Proyecto:
 Descripción: 
 
 >>> App para moviles destinada a su uso para conocer y disfrutar de las distintas rutas de senderismo que ofrece la ciudad de Granada y sus alrededores. Con ella,
->>> podremos trazar rutas, rastrear y analizar los senderos que hemos recorrido y dejar reviews y diversas ubicaciones para compartir con amigos y otros usuarios
->>> de la aplicación.
+>>> los usuarios van a tener la oportunidad de crear rutas y participar en otras creadas por otros usuarios, pudiendo asi socializar y conocer nuevas personas mientras se disfruta de un ocio sano y seguro (respetando todas las medidas contra la COVID-19). Además, podrán chatear con sus compañeros de ruta mediante chats grupales disponibles en cada evento. 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+![Logotipo-El -Baston-de-Granada](img/Logotipo-El -Baston-de-Granada.png)
 
 Miembros
  * :bust_in_silhouette:   Alejandro Cuenca Zurita     :octocat:     
@@ -86,46 +86,96 @@ Miembros
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+>>> ![Malla-Receptora-de-Información](img/Malla-Receptora-de-Información.png)
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-
-
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> La malla receptora de información nos ayuda a agrupar nuestras ideas, viendo los pros y los contras de las mismas, para poder conseguir que nuestro proyecto tenga una evolución clara y planeada. Para ello, nos preguntamos los puntos interesantes y las criticas constructivas que pueden surgir de nuestra idea inicial, además de conseguir preguntas y nuevas ideas de otros usuarios que nos ayudarán a plantearnos nuevas opciones para el proyecto.
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> ![Lean-Canvas-El-Bastón-de-Granada](img/Lean-Canvas-El-Bastón-de-Granada.png)En este punto, estudiamos las necesidades y acciones de nuestros usuarios, además de los objetivos y las métricas que debemos seguir como organización para concienciarnos de que el proyecto funciona como esperamos y que lleve una evolución consigo. Además, es muy importante tener en cuenta el proposito de El Bastón de Granada, siendo estos los pilares que conseguirán que el proyecto se mantenga. 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> ![Task-Flow-Bastón-de-Granada](img/Task-Flow-Bastón-de-Granada.png)
+>>>
+>>> Para identificar las tareas (y la relevancia para los usuarios), hemos decidido realizar un
+>>> Task Flow. Con él, somos capaces de observar el camino que toma un usuario para
+>>> conseguir un objetivo concreto dentro de nuestra aplicación. Hemos elegido realizar el Task Flow porque queríamos hacer hincapié en el task más importante de la App, ya que en nuestro sistema no hay tantas tareas importantes como para realizar la matriz de tareas, y así, como hemos dicho, recalcamos la tarea de realizar una ruta. En nuestro caso, hemos creado un Task Flow que indica el camino que seguiría el usuario desde que abre la aplicación hasta que acaba una ruta y la valora.
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+>>> A continuación proponemos la organización lógica de nuestra aplicación mediante un site map, con el que podremos identificar las diferentes páginas que componen a nuestro proyecto.
+>>>
+>>> ![SiteMap-Bastón-de-Granada](img/SiteMap-Bastón-de-Granada.png)
+>>>
+>>> |     Label      |                          Scope note                          |
+>>> | :------------: | :----------------------------------------------------------: |
+>>> |     Rutas      | Lleva a la página donde puedes visualizar todas las rutas disponibles (se accede mediante la busqueda de la pagina principal) |
+>>> |      Ruta      | Lleva a la información de la ruta y a la valoración de otros usuarios (se accede al interactuar con una ruta) |
+>>> |     Grupos     | Lleva al menú donde puedes ver los grupos que tienes con otros usuarios y acceder al chat (Icono: globo de comic) |
+>>> |      Chat      | Chat de usuarios de un grupo (se accede al interactuar con uno de los grupos) |
+>>> |     Perfil     | Lleva a la información del perfil del usuario (Icono: usuario) |
+>>> | Sobre nosotros | Lleva a la página de información de la empresa (icono: grupo) |
+>>> |  Contáctanos   | Lleva a la página de contacto con la empresa (se accede al pulsar el botón de Contáctanos) |
+>>>
+>>> 
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> - Página principal: 
+>>>
+>>>   ![inicio](img/Bocetos Lo-Fi/inicio.png)
+>>>
+>>> 
+>>>
+>>> - Rutas:
+>>>
+>>>   ![rutas](img/Bocetos Lo-Fi/rutas.png)
+>>>
+>>> 
+>>>
+>>> - Ruta:
+>>>
+>>>   ![ruta](img/Bocetos Lo-Fi/ruta.png)
+>>>
+>>> 
+>>>
+>>> - Grupos: 
+>>>
+>>>   ![grupos](img/Bocetos Lo-Fi/grupos.png)
+>>>
+>>> 
+>>>
+>>> - Chat: 
+>>>
+>>>   ![chat](img/Bocetos Lo-Fi/chat.png)
+>>>
+>>> 
+>>>
+>>> - Perfil: 
+>>>
+>>>   ![perfil](img/Bocetos Lo-Fi/perfil.png)
+>>>
+>>> 
+>>>
+>>> - Sobre nosotros:
+>>>
+>>>   ![about us](img/Bocetos Lo-Fi/about us.png)
+>>>
+>>> 
+>>>
+>>> - Contáctanos:
+>>>
+>>>   ![contact us](img/Bocetos Lo-Fi/contact us.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
