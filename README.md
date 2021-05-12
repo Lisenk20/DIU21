@@ -14,7 +14,7 @@ Descripción:
 
 Logotipo: 
 
-![Logotipo-El -Baston-de-Granada](img/Logotipo-El -Baston-de-Granada.png)
+![Logotipo-El-Baston-de-Granada](img/Logotipo-El-Baston-de-Granada.png)
 
 Miembros
  * :bust_in_silhouette:   Alejandro Cuenca Zurita     :octocat:     
@@ -82,7 +82,7 @@ Miembros
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / Empathy map / POV
 ----
 
 
