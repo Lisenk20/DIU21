@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU3_LosMaliantes.  Curso: 2020/21 
-Updated: 24/3/2021
+Updated: 12/5/2021
 
 Proyecto: 
 >>> El Bastón de Granada.
@@ -10,11 +10,11 @@ Proyecto:
 Descripción: 
 
 >>> App para moviles destinada a su uso para conocer y disfrutar de las distintas rutas de senderismo que ofrece la ciudad de Granada y sus alrededores. Con ella,
->>> podremos trazar rutas, rastrear y analizar los senderos que hemos recorrido y dejar reviews y diversas ubicaciones para compartir con amigos y otros usuarios
->>> de la aplicación.
+>>> los usuarios van a tener la oportunidad de crear rutas y participar en otras creadas por otros usuarios, pudiendo asi socializar y conocer nuevas personas mientras se disfruta de un ocio sano y seguro (respetando todas las medidas contra la COVID-19). Además, podrán chatear con sus compañeros de ruta mediante chats grupales disponibles en cada evento. 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+<img src="img/Logotipo-El-Baston-de-Granada.png" alt="Logotipo-El-Baston-de-Granada" style="zoom: 33%;" />
 
 Miembros
  * :bust_in_silhouette:   Alejandro Cuenca Zurita     :octocat:     
@@ -42,18 +42,18 @@ Miembros
 >>>
 >>> Por tanto, hemos realizado un análisis competitivo entre nuestra aplicación y las competidoras que hemos seleccionado. A continuación, adjuntamos el resultado:
 >>>
->>> ![Competitive-Analysis](img/Competitive-Analysis.png)
+>>> <img src="img/Competitive-Analysis.png" alt="Competitive-Analysis" style="zoom: 33%;" />
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> ![Manolo-Martinez](img/Manolo-Martinez.png)
+>>> <img src="img/Manolo-Martinez.png" alt="Manolo-Martinez" style="zoom: 67%;" />
 >>>
 >>> En primer lugar, nos ha parecido interesante proponer a una persona con pocas habilidades con la tecnología, que no se fía mucho de realizar reservas por Internet, y que es una persona sencilla que quiere disfrutar de algunas experiencias nuevas junto a su familia.
 >>>
 >>> Así, podremos ver si la aplicación es intuitiva y de fácil uso para personas inexpertas.
 >>>
->>> ![Soraya-Garcia](img/Soraya-Garcia.png)
+>>> <img src="img/Soraya-Garcia.png" alt="Soraya-Garcia" style="zoom: 67%;" />
 >>>
 >>> Para la segunda persona, hemos decidido crear a Soraya, una mujer joven y soltera que se maneja bien con las nuevas tecnologías y las redes sociales, para comprobar si nuestra aplicación cumple las expectativas de una persona que, aún teniendo soltura buscando experiencias en Internet, sigue eligiendo Airbnb.
 
@@ -61,11 +61,11 @@ Miembros
 ----
 
 
->>> ![Manolo-Martinez-Journey](img/Manolo-Martinez-Journey.png)
+>>> <img src="img/Manolo-Martinez-Journey.png" alt="Manolo-Martinez-Journey" style="zoom: 67%;" />
 >>>
 >>> Para Manolo Martinez (quien intentaba buscar como hacer su viaje mediante publicidad convencional), descubrir Airbnb le ayudó para poder realizar la reserva de su experiencia junto a su familia. Sin embargo, desconfía de Internet y de las nuevas tecnologías, afectando a su proceso.
 >>>
->>> ![Soraya-Garcia-Journey](img/Soraya-Garcia-Journey.png)
+>>> <img src="img/Soraya-Garcia-Journey.png" alt="Soraya-Garcia-Journey" style="zoom: 67%;" />
 >>>
 >>> Para Soraya Garcia, las tecnologías no le han supuesto mucho problema. Aunque su jefe no le dió los días que deseaba para vivir su experiencia, había encontrado su “viaje perfecto”. Sin embargo, debido a la situación epidemiológica actual, no pudo completar su reserva y decidió, con descontento, recurrir a otro destino más adecuado.
 
@@ -82,50 +82,100 @@ Miembros
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / Empathy map / POV
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+>>> <img src="img/Malla-Receptora-de-Información.png" alt="Malla-Receptora-de-Información" style="zoom:67%;" />
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-
-
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> La malla receptora de información nos ayuda a agrupar nuestras ideas, viendo los pros y los contras de las mismas, para poder conseguir que nuestro proyecto tenga una evolución clara y planeada. Para ello, nos preguntamos los puntos interesantes y las criticas constructivas que pueden surgir de nuestra idea inicial, además de conseguir preguntas y nuevas ideas de otros usuarios que nos ayudarán a plantearnos nuevas opciones para el proyecto.
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> <img src="img/Lean-Canvas-El-Bastón-de-Granada.png" alt="Lean-Canvas-El-Bastón-de-Granada" style="zoom:67%;" />En este punto, estudiamos las necesidades y acciones de nuestros usuarios, además de los objetivos y las métricas que debemos seguir como organización para concienciarnos de que el proyecto funciona como esperamos y que lleve una evolución consigo. Además, es muy importante tener en cuenta el proposito de El Bastón de Granada, siendo estos los pilares que conseguirán que el proyecto se mantenga. 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> <img src="img/Task-Flow-Bastón-de-Granada.png" alt="Task-Flow-Bastón-de-Granada" style="zoom:67%;" />
+>>>
+>>> Para identificar las tareas (y la relevancia para los usuarios), hemos decidido realizar un
+>>> Task Flow. Con él, somos capaces de observar el camino que toma un usuario para
+>>> conseguir un objetivo concreto dentro de nuestra aplicación. Hemos elegido realizar el Task Flow porque queríamos hacer hincapié en el task más importante de la App, ya que en nuestro sistema no hay tantas tareas importantes como para realizar la matriz de tareas, y así, como hemos dicho, recalcamos la tarea de realizar una ruta. En nuestro caso, hemos creado un Task Flow que indica el camino que seguiría el usuario desde que abre la aplicación hasta que acaba una ruta y la valora.
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+>>> A continuación proponemos la organización lógica de nuestra aplicación mediante un site map, con el que podremos identificar las diferentes páginas que componen a nuestro proyecto.
+>>>
+>>> <img src="img/SiteMap-Bastón-de-Granada.png" alt="SiteMap-Bastón-de-Granada" style="zoom: 33%;" />
+>>>
+>>> |     Label      |                          Scope note                          |
+>>> | :------------: | :----------------------------------------------------------: |
+>>> |     Rutas      | Lleva a la página donde puedes visualizar todas las rutas disponibles (se accede mediante la busqueda de la pagina principal) |
+>>> |      Ruta      | Lleva a la información de la ruta y a la valoración de otros usuarios (se accede al interactuar con una ruta) |
+>>> |     Grupos     | Lleva al menú donde puedes ver los grupos que tienes con otros usuarios y acceder al chat (Icono: globo de comic) |
+>>> |      Chat      | Chat de usuarios de un grupo (se accede al interactuar con uno de los grupos) |
+>>> |     Perfil     | Lleva a la información del perfil del usuario (Icono: usuario) |
+>>> | Sobre nosotros | Lleva a la página de información de la empresa (icono: grupo) |
+>>> |  Contáctanos   | Lleva a la página de contacto con la empresa (se accede al pulsar el botón de Contáctanos) |
+>>>
+>>> 
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> - Página principal: 
+>>>
+>>>   <img src="img/inicio.png" alt="inicio" style="zoom: 67%;" />
+>>>
+>>> 
+>>>
+>>> - Rutas:
+>>>
+>>>   <img src="img/rutas.png" alt="rutas" style="zoom:67%;" />
+>>>
+>>> 
+>>>
+>>> - Ruta:
+>>>
+>>>   <img src="img/ruta.png" alt="ruta" style="zoom:67%;" />
+>>>
+>>> 
+>>>
+>>> - Grupos: 
+>>>
+>>>   <img src="img/grupos.png" alt="grupos" style="zoom:67%;" />
+>>>
+>>> 
+>>>
+>>> - Chat: 
+>>>
+>>>   <img src="img/chat.png" alt="chat" style="zoom:67%;" />
+>>>
+>>> 
+>>>
+>>> - Perfil: 
+>>>
+>>>   <img src="img/perfil.png" alt="perfil" style="zoom:67%;" />
+>>>
+>>> 
+>>>
+>>> - Sobre nosotros:
+>>>
+>>>   <img src="img/about-us.png" alt="about us" style="zoom:67%;" />
+>>>
+>>> 
+>>>
+>>> - Contáctanos:
+>>>
+>>>   <img src="img/contact-us.png" alt="contact us" style="zoom:67%;" />
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
