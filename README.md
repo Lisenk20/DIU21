@@ -192,14 +192,12 @@ Miembros
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
 >>> <img src="P3/imgs/landingPage.png" alt="Imagen Landing Page" style="zoom: 33%;" />
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Para la fase de prototipado, hemos decidido aplicar algunos conceptos de material design, tales como la altura de los diversos elementos y las sombras de los mismos tal y como se especifica en la documentación, así como algunas directrices dadas por Apple para el desarrollo de aplicaciones en iOS, tratando de armonizar nuestras anteriores decisiones (tales como la tipografía) con lo especificado en el manual.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
