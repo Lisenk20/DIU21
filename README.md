@@ -205,7 +205,7 @@ Miembros
 ----
 
 >>> <img src="P3/imgs/mockup.jpg" alt="Imagen Mockup" style="zoom: 33%;" />
->>> El Mockup lo hemos diseñado con la herramienta Figma, ya que nos permitía realizar una demo de nuestra aplicación en funcionamiento para mostrarla en el Case Study
+>>> El Mockup lo hemos diseñado con la herramienta Figma, ya que nos permitía realizar una demo de nuestra aplicación en funcionamiento para mostrarla en el Case Study.
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
