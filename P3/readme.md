@@ -6,9 +6,11 @@
 
 ## Landing Page
 
+<img src="imgs/landingPage.png" alt="Imagen Landing Page" style="zoom: 33%;" />
 
 ## Mockup: LAYOUT HI-FI
 
+<img src="imgs/mockup.png" alt="Imagen Mockup" style="zoom: 33%;" />
 
 ## Documentación: Publicación del Case Study
 
