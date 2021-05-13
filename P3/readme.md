@@ -10,7 +10,7 @@
 
 ## Mockup: LAYOUT HI-FI
 
-<img src="imgs/mockup.png" alt="Imagen Mockup" style="zoom: 33%;" />
+<img src="imgs/mockup.jpg" alt="Imagen Mockup" style="zoom: 33%;" />
 
 ## Documentación: Publicación del Case Study
 
