@@ -2,6 +2,9 @@
 
 ## Moodboard (diseño visual + logotipo)   
 
+<img src="/img/Logotipo-El-Baston-de-Granada.png" alt="Logotipo-El-Baston-de-Granada" style="zoom: 33%;" />
+
+<img src="imgs/Moodboard.png" alt="Imagen Moodboard" style="zoom: 33%;" />
 
 ## Landing Page
 
