@@ -185,16 +185,15 @@ Miembros
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>> <img src="P3/imgs/moodboard/Moodboard.png" alt="Imagen Moodboard" style="zoom: 33%;" />
+>>> Hemos diseñado el logotipo con la herramienta XXXXX, teniendo en cuenta los colores elegidos para el diseño y la armonización con el resto del proyecto. Debido a la estructura del logotipo, creemos que éste sí se podría llegar a usar como encabezado de Twitter, por ejemplo.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> Plantear Landing Page 
+>>> <img src="P3/imgs/landingPage.png" alt="Imagen Landing Page" style="zoom: 33%;" />
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -205,7 +204,8 @@ Miembros
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> <img src="P3/imgs/mockup.jpg" alt="Imagen Mockup" style="zoom: 33%;" />
+>>> El Mockup lo hemos diseñado con la herramienta Figma, ya que nos permitía realizar una demo de nuestra aplicación en funcionamiento para mostrarla en el Case Study
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
