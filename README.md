@@ -187,7 +187,7 @@ Miembros
 
 >>> <img src="P3/imgs/moodboard/Moodboard.png" alt="Imagen Moodboard" style="zoom: 33%;" />
 >>> Hemos diseñado el logotipo con la herramienta XXXXX, teniendo en cuenta los colores elegidos para el diseño y la armonización con el resto del proyecto. Debido a la estructura del logotipo, creemos que éste sí se podría llegar a usar como encabezado de Twitter, por ejemplo.
-
+>>> En cuanto a la paleta de colores, hemos elegido como colores principales al verde y el amarillo, ya que estos transmiten tanto tranquilidad y calma como felicidad y alegría, además de asociarse con la naturaleza y la calidez del Sol.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
