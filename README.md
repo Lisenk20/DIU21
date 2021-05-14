@@ -210,6 +210,8 @@ Miembros
 -----
 
 
+>>> [Observa el video de nuestro Case Study](https://drive.google.com/file/d/11_NkdonbIE_eMcwnkMpD0vs1ard5YQ6r/view?usp=sharing)
+>>>
 >>> [Accede a la simulación de El Bastón de Granada](https://www.figma.com/proto/YB96N6XKOYJUAGnmr67qDh/El-Bast%C3%B3n-de-Granada?node-id=1%3A2&scaling=scale-down&page-id=0%3A1)
 
 
