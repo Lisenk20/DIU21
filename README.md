@@ -197,7 +197,7 @@ Miembros
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Para la fase de prototipado, hemos decidido aplicar algunos conceptos de material design, tales como la altura de los diversos elementos y las sombras de los mismos tal y como se especifica en la documentación, así como algunas directrices dadas por Apple para el desarrollo de aplicaciones en iOS, tratando de armonizar nuestras anteriores decisiones (tales como la tipografía) con lo especificado en el manual.
+>>> Para la fase de prototipado, hemos decidido aplicar algunos conceptos de material design, tales como la altura de los diversos elementos y las sombras de los mismos tal y como se especifica en la documentación, así como algunas directrices dadas por Apple para el desarrollo de aplicaciones en iOS, tratando de armonizar nuestras anteriores decisiones (tales como la tipografía) con lo especificado en el manual. Además, hemos podido aplicar algunos patrones de diseño como en el registro e inicio de sesión de los usuarios.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
