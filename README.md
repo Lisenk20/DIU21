@@ -186,7 +186,7 @@ Miembros
 
 
 >>> <img src="P3/imgs/moodboard/Moodboard.png" alt="Imagen Moodboard" style="zoom: 33%;" />
->>> Hemos diseñado el logotipo con la herramienta 'SmashingLogo', teniendo en cuenta los colores elegidos para el diseño y la armonización con el resto del proyecto . Debido a la estructura del logotipo, creemos que éste sí se podría llegar a usar como encabezado de Twitter, por ejemplo.
+>>> Hemos diseñado el logotipo con la herramienta 'SmashingLogo', teniendo en cuenta los colores elegidos para el diseño y la armonización con el resto del proyecto. Debido a la estructura del logotipo, creemos que éste sí se podría llegar a usar como encabezado de Twitter, por ejemplo.
 >>> En cuanto a la paleta de colores, hemos elegido como colores principales al verde y el amarillo, ya que estos transmiten tanto tranquilidad y calma como felicidad y alegría, además de asociarse con la naturaleza y la calidez del Sol.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
@@ -210,8 +210,7 @@ Miembros
 -----
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+>>> [Accede a la simulación de El Bastón de Granada](https://www.figma.com/proto/YB96N6XKOYJUAGnmr67qDh/El-Bast%C3%B3n-de-Granada?node-id=1%3A2&scaling=scale-down&page-id=0%3A1)
 
 
 ## Paso 4. Evaluación 
