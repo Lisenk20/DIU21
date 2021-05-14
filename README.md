@@ -210,6 +210,8 @@ Miembros
 -----
 
 
+>>> <video src="D:\Ingeniería Informática\3º_AÑO\2º Cuatrimestre\DIU\Prácticas\DIU21\P3\Case Study.mp4"></video>
+>>>
 >>> [Accede a la simulación de El Bastón de Granada](https://www.figma.com/proto/YB96N6XKOYJUAGnmr67qDh/El-Bast%C3%B3n-de-Granada?node-id=1%3A2&scaling=scale-down&page-id=0%3A1)
 
 
