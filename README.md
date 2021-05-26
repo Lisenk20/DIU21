@@ -248,7 +248,7 @@ Miembros
 >>> - [Caso A - El Bastón de Granada](https://docs.google.com/forms/d/1_-_sCLGzm3oV1YXKzLz5NMx7pHaplYSe9HmI_q3tdgU/viewanalytics)
 >>> - [Caso B - Granatour](https://docs.google.com/forms/d/e/1FAIpQLScsvoc06dw62r-pWMNU1HAJVgAe4piKOcCpVjkG1zim14zx0w/viewanalytics)
 >>>
->>> A continuación, hemos recopilado las puntuaciones de las preguntas SUS en un Excel, calculando así la valoración SUS:
+>>> A continuación, hemos recopilado las puntuaciones de las preguntas SUS en un archivo [Excel](P4/Cuestionario-SUS-DIU), calculando así la valoración SUS:
 >>>
 >>> ![User Testing](P4/User-Testing.png)
 >>>
