@@ -234,20 +234,26 @@ Miembros
 >>>
 >>> | **Usuarios** | Sexo/Edad |              Ocupación              | Exp. TIC |             Perfil cubierto              | Plataforma | Test A/B | Calificación SUS |
 >>> | :----------: | :-------: | :---------------------------------: | :------: | :--------------------------------------: | :--------: | :------: | :--------------: |
->>> |   Antonio    | Hombre/67 |              Jubilado               | Muy baja | Persona de avanzada edad/Fiestero/Alegre |   Móvil    |    A     |                  |
->>> |  Magdalena   | Mujer/42  | Cuidadora de necesidades especiales |  Media   |       Familia/Fotografía/Enfadada        | Móvil/Web  |    A     |                  |
->>> |    Pedro     | Hombre/32 |              Bancario               |   Alta   |       Discapacitado/Oficina/Alegre       |    Web     |    B     |                  |
->>> |    Susana    | Mujer/28  |              Autónoma               |   Alta   |    Emprendedora/Planificadora/Triste     | Móvil/Web  |    B     |                  |
+>>> |   Antonio    | Hombre/67 |              Jubilado               | Muy baja | Persona de avanzada edad/Fiestero/Alegre |   Móvil    |    A     |       62,5       |
+>>> |  Magdalena   | Mujer/42  | Cuidadora de necesidades especiales |  Media   |       Familia/Fotografía/Enfadada        | Móvil/Web  |    A     |       67,5       |
+>>> |    Pedro     | Hombre/32 |              Bancario               |   Alta   |       Discapacitado/Oficina/Alegre       |    Web     |    B     |        70        |
+>>> |    Susana    | Mujer/28  |              Autónoma               |   Alta   |    Emprendedora/Planificadora/Triste     | Móvil/Web  |    B     |        60        |
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>> Para realizar el cuestionario SUS, hemos creado dos cuestionarios de Google para el caso A y el B, con toda la información de los usuarios anteriores recopilada:
+>>>
+>>> - [Caso A - El Bastón de Granada](https://docs.google.com/forms/d/1_-_sCLGzm3oV1YXKzLz5NMx7pHaplYSe9HmI_q3tdgU/viewanalytics)
+>>> - [Caso B - Granatour](https://docs.google.com/forms/d/e/1FAIpQLScsvoc06dw62r-pWMNU1HAJVgAe4piKOcCpVjkG1zim14zx0w/viewanalytics)
+>>>
+>>> A continuación, hemos recopilado las puntuaciones de las preguntas SUS en un Excel, calculando así la valoración SUS:
+>>>
+>>> ![User Testing](P4\User Testing.png)
+>>>
+>>> 
+>>> 
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
@@ -258,24 +264,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 >>> Valoración personal 
-
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
 
 ## Conclusión final / Valoración de las prácticas
 
