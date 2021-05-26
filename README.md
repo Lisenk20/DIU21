@@ -250,7 +250,7 @@ Miembros
 >>>
 >>> A continuación, hemos recopilado las puntuaciones de las preguntas SUS en un Excel, calculando así la valoración SUS:
 >>>
->>> ![User Testing](P4/User Testing.png)
+>>> ![User Testing](P4/User-Testing.png)
 >>>
 >>> 
 
