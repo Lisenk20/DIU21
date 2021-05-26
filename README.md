@@ -222,21 +222,22 @@ Miembros
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+>>> [Granatour](https://github.com/Angelgf22/DIU21)
+>>>
+>>> Aplicación web institucional para el turismo en Granada, posibilitando al usuario realizar compras, recibir descuentos según un sistema de puntos, información detallada de lugares y eventos a visitar, etc...
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
-
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+>>>
+>>> | **Usuarios** | Sexo/Edad |              Ocupación              | Exp. TIC |             Perfil cubierto              | Plataforma | Test A/B | Calificación SUS |
+>>> | :----------: | :-------: | :---------------------------------: | :------: | :--------------------------------------: | :--------: | :------: | :--------------: |
+>>> |   Antonio    | Hombre/67 |              Jubilado               | Muy baja | Persona de avanzada edad/Fiestero/Alegre |   Móvil    |    A     |                  |
+>>> |  Magdalena   | Mujer/42  | Cuidadora de necesidades especiales |  Media   |       Familia/Fotografía/Enfadada        | Móvil/Web  |    A     |                  |
+>>> |    Pedro     | Hombre/32 |              Bancario               |   Alta   |       Discapacitado/Oficina/Alegre       |    Web     |    B     |                  |
+>>> |    Susana    | Mujer/28  |              Autónoma               |   Alta   |    Emprendedora/Planificadora/Triste     | Móvil/Web  |    B     |                  |
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
