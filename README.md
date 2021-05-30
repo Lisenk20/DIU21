@@ -258,7 +258,7 @@ Miembros
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> A continuación, se muestra el Usability Report realizado a la aplicación Granatour en [PDF](P4/Usability-test.pdf)
+>> A continuación, se muestra el Usability Report realizado a la aplicación Granatour en [PDF](P4/P4_UsabReport_Granatour_doneby_DIU3_LosMaliantes.pdf)
 >>
 >> Además, se muestra a continuación el UX Case Study realizado en [PDF](P4/UXCaseStudy-Granatour.pdf) y [Excel](P4/UXCaseStudy-Granatour.xlsx)
 
