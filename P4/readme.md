@@ -2,7 +2,7 @@
 
 Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
 
- 4.a Caso asignado
+![Método UX](../img/ABtesting.png) 4.a Caso asignado
 ----
 
 
@@ -11,7 +11,7 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 >>> Aplicación web institucional para el turismo en Granada, posibilitando al usuario realizar compras, recibir descuentos según un sistema de puntos, información detallada de lugares y eventos a visitar, etc...
 
 
-![Método UX](/mnt/sdb1/Ingeniería Informática/3º_AÑO/2º Cuatrimestre/DIU/Prácticas/DIU21/img/usability-testing.png) 4.b User Testing
+![Método UX](../img/usability-testing.png) 4.b User Testing
 ----
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
@@ -24,7 +24,7 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 >>> |    Susana    | Mujer/28  |              Autónoma               |   Alta   |    Emprendedora/Planificadora/Triste     | Móvil/Web  |    B     |        60        |
 
 
-![Método UX](/mnt/sdb1/Ingeniería Informática/3º_AÑO/2º Cuatrimestre/DIU/Prácticas/DIU21/img/Survey.png). 4.c Cuestionario SUS
+![Método UX](../img/Survey.png) 4.c Cuestionario SUS
 ----
 
 >>> Para realizar el cuestionario SUS, hemos creado dos cuestionarios de Google para el caso A y el B, con toda la información de los usuarios anteriores recopilada:
@@ -39,7 +39,7 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 >
 
 
-![Método UX](/mnt/sdb1/Ingeniería Informática/3º_AÑO/2º Cuatrimestre/DIU/Prácticas/DIU21/img/usability-report.png) 4.d Usability Report
+![Método UX](../img/usability-report.png) 4.d Usability Report
 ----
 
 >> A continuación, se muestra el Usability Report realizado a la aplicación Granatour en [PDF](P4/Usability-test.pdf)
