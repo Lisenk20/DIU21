@@ -258,16 +258,20 @@ Miembros
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+>> A continuación, se muestra el Usability Report realizado a la aplicación Granatour en [PDF](P4/Usability-test.pdf)
+>>
+>> Además, se muestra a continuación el UX Case Study realizado en [PDF](P4/UXCaseStudy-Granatour.pdf) y [Excel](P4/UXCaseStudy-Granatour.xlsx)
 
 
 
->>> Valoración personal 
+>>> Tras realizar el estudio y la comparación entre El Bastón de Granada y Granatour, hemos observado que la aplicación de Granatour ofrece una experiencia intuitiva y facil a los usuarios que la han evaluado (aunque los resultados son bastante parecidos, siendo una experiencia satisfactoria en las dos aplicaciones). Evaluar la aplicación de nuestros compañeros nos ha ayudado a comprender fallos de diseño que hemos podido cometer y aprender prácticas que nos vendrán bien en el desarrollo de nuevas ideas y proyectos.
 
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+>>> Al principio del diseño (en el analisis competitivo entre diversas aplicaciones), la metodología UX se hacía algo compleja y la cantidad de información era muy alta para comprender todo lo que necesitabamos hacer. Sin embargo, a medida que hemos avanzado y, sobretodo, una vez comenzamos a trabajar en nuestra propuesta de valor (El Bastón de Granada), hemos aprendido a valorar la importancia que tiene seguir la metodología ofrecida para poder trabajar de la forma más organizada posible y ayudando a tener una aplicación escalable y con un sentido lógico y útil. 
+>>>
+>>> Todo lo aprendido en estas prácticas nos ha servido a enfrentarnos a una situación real y a los problemas que conlleva, y consideramos que ha sido una experiencia muy beneficiosa para nuestro futuro laboral.
 
 
 
