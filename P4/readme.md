@@ -34,7 +34,7 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 >
 >>> A continuación, hemos recopilado las puntuaciones de las preguntas SUS en un archivo [Excel](P4/Cuestionario-SUS-DIU.pdf), calculando así la valoración SUS:
 >
->>> ![User Testing](/mnt/sdb1/Ingeniería Informática/3º_AÑO/2º Cuatrimestre/DIU/Prácticas/DIU21/P4/User-Testing.png)
+>>> ![User Testing](User-Testing.png)
 >
 >
 
@@ -42,9 +42,9 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 ![Método UX](../img/usability-report.png) 4.d Usability Report
 ----
 
->> A continuación, se muestra el Usability Report realizado a la aplicación Granatour en [PDF](P4/P4_UsabReport_Granatour_doneby_DIU3_LosMaliantes.pdf)
+>> A continuación, se muestra el Usability Report realizado a la aplicación Granatour en [PDF](P4_UsabReport_Granatour_doneby_DIU3_LosMaliantes.pdf)
 >
->> Además, se muestra a continuación el UX Case Study realizado en [PDF](P4/UXCaseStudy-Granatour.pdf) y [Excel](P4/UXCaseStudy-Granatour.xlsx)
+>> Además, se muestra a continuación el UX Case Study realizado en [PDF](UXCaseStudy-Granatour.pdf) y [Excel](UXCaseStudy-Granatour.xlsx)
 
 
 
