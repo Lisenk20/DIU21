@@ -1,24 +1,17 @@
 # DIU21
-Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
+Prácticas Diseño Interfaces de Usuario 2020-21
 
-Grupo: DIU3_LosMaliantes.  Curso: 2020/21 
-Updated: 12/5/2021
-
-Proyecto: 
->>> El Bastón de Granada.
+Rediseño de Yuzin, empresa de divulgación de eventos culturales.
 
 Descripción: 
 
->>> App para moviles destinada a su uso para conocer y disfrutar de las distintas rutas de senderismo que ofrece la ciudad de Granada y sus alrededores. Con ella,
->>> los usuarios van a tener la oportunidad de crear rutas y participar en otras creadas por otros usuarios, pudiendo asi socializar y conocer nuevas personas mientras se disfruta de un ocio sano y seguro (respetando todas las medidas contra la COVID-19). Además, podrán chatear con sus compañeros de ruta mediante chats grupales disponibles en cada evento. 
+>>> Hola
 
 Logotipo: 
 
 <img src="img/Logotipo-El-Baston-de-Granada.png" alt="Logotipo-El-Baston-de-Granada" style="zoom: 33%;" />
 
-Miembros
- * :bust_in_silhouette:   Alejandro Cuenca Zurita     :octocat:     
- * :bust_in_silhouette:  José Escribano Cobalea     :octocat:
+* :bust_in_silhouette:   Alejandro Cuenca Zurita     :octocat:     
 
 -----
 
